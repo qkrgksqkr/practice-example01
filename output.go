@@ -5,5 +5,5 @@ package output
 import "fmt"
 
 func OutputPrint() {
-	fmt.Println("Hello World : no version")
+	fmt.Println("Hello World : 0.0.1 version")
 }
