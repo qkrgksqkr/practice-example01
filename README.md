@@ -1,2 +1,2 @@
-# practice-example012
+# practice-example01
 golang package practice examle01
